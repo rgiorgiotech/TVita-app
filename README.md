@@ -12,10 +12,10 @@ The app features two tabs, TV and Radio. The TV tab includes all the most popula
 The streams are sourced from the broadcasters' official websites, and there is no retransmission on third-party servers. This is why some minor channels are not available: if the broadcaster does not have an official stream, the channel will never be available in this app.
 
 ## Download
-| OS      |             |
-|---------|-------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" width="20"/> macOS   | [Download](https://github.com/rgiorgiotech/TVita-app/releases/latest/download/TVita-macOS-universal-latest.dmg)    |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="20"/> Windows | [Download](https://github.com/rgiorgiotech/TVita-app/releases/latest/download/TVita-Win-latest.msixbundle)    |
+| OS      | Min. requirements        |             |
+|---------|--------------------------|-------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" width="20"/> macOS   | macOS 11.0 Big Sur  | [Download](https://github.com/rgiorgiotech/TVita-app/releases/latest/download/TVita-macOS-universal-latest.dmg)    |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="20"/> Windows | Windows 10 22H2     | [Download](https://github.com/rgiorgiotech/TVita-app/releases/latest/download/TVita-Win-latest.msixbundle)    |
 
 ## Suggerimenti e problemi / Suggestions and problems
 Se vuoi suggerire nuovi canali o funzionalità, o segnalare problemi relativi ad alcuni canali o all'app, apri un nuovo Issue da [qui](https://github.com/rgiorgiotech/TVita-app/issues). Ricorda di anteporre le seguenti etichette nel titolo:
