@@ -17,6 +17,11 @@ The streams are sourced from the broadcasters' official websites, and there is n
 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" width="20"/> macOS   | macOS 11.0 Big Sur  | [Download](https://github.com/rgiorgiotech/TVita-app/releases/latest/download/TVita-macOS-universal-latest.dmg)    |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="20"/> Windows | Windows 10 22H2     | [Download](https://github.com/rgiorgiotech/TVita-app/releases/latest/download/TVita-Win-latest.msixbundle)    |
 
+## iOS & Android
+Attualmente esiste una versione privata dell'app per iOS, ma non è stata ancora pubblicata. Il supporto per Android non è al momento previsto ma conto di lavorarci in un prossimo futuro.
+
+Currently, there is a private version of the app for iOS, but it has not been released yet. Support for Android is not planned at the moment, but I intend to work on it in the near future.
+
 ## Suggerimenti e problemi / Suggestions and problems
 Se vuoi suggerire nuovi canali o funzionalità, o segnalare problemi relativi ad alcuni canali o all'app, apri un nuovo Issue da [qui](https://github.com/rgiorgiotech/TVita-app/issues). Ricorda di anteporre le seguenti etichette nel titolo:
 
