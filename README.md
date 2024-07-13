@@ -8,9 +8,6 @@ Easily watch free Italian TV channels with a single app.
 L'app presenta due schede, TV e Radio. La scheda TV contiene tutti i canali DTT nazionali più famosi, nei limiti dello streaming da parte delle emittenti. La sezione Radio contiene tutte le stazioni radio nazionali e regionali più diffuse, ed è in costante crescita.
 I flussi sono stati ricavati dalle piattaforme ufficiali delle emittenti, e non viene fatta alcuna ritrasmissione in server terzi. Ecco perché alcuni canali minori non sono presenti: se l'emittente non ha uno streaming ufficiale, il canale non sarà mai disponibile in quest'app.
 
-The app features two tabs, TV and Radio. The TV tab includes all the most popular national DTT channels, within the broadcasters' streaming limits. The Radio section contains all the most popular national and regional radio stations, and it is constantly growing.
-The streams are sourced from the broadcasters' official websites, and there is no retransmission on third-party servers. This is why some minor channels are not available: if the broadcaster does not have an official stream, the channel will never be available in this app.
-
 ## Download
 | OS      | Min. requirements        |             |
 |---------|--------------------------|-------------|
@@ -18,21 +15,16 @@ The streams are sourced from the broadcasters' official websites, and there is n
 | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="20"/> Windows | Windows 10 22H2     | [Download](https://github.com/rgiorgiotech/TVita-app/releases/latest/download/TVita-Win-latest.msixbundle)    |
 
 ## iOS & Android
-Attualmente esiste una versione privata dell'app per iOS, ma non è stata ancora pubblicata. Il supporto per Android non è al momento previsto ma conto di lavorarci in un prossimo futuro.
-
-Currently, there is a private version of the app for iOS, but it has not been released yet. Support for Android is not planned at the moment, but I intend to work on it in the near future.
+Un'app per iOS è già pronta e conto di pubblicarla nel prossimo futuro.
+Il supporto per Android non è attualmente previsto.
 
 ## Suggerimenti e problemi / Suggestions and problems
 Se vuoi suggerire nuovi canali o funzionalità, o segnalare problemi relativi ad alcuni canali o all'app, apri un nuovo Issue da [qui](https://github.com/rgiorgiotech/TVita-app/issues). Ricorda di anteporre le seguenti etichette nel titolo:
 
-If you want to suggest new channels or features, and if you want to report channel or app issues, please open a new Issue from [here](https://github.com/rgiorgiotech/TVita-app/issues). Please put the following labels in the title:
-
-- **[NEW CHANNEL]** per proposte di nuovi canali / for new channels suggestions;
-- **[NEW FEATURE]** per proposte di nuove funzionalità / for new features suggestions;
-- **[CHANNEL ISSUE]** per problemi relativi ai canali / for channels issues;
-- **[APP ISSUE]** per problemi relativi all'app / for app issues.
+- **[NUOVO CANALE]** per proporre nuovi canali;
+- **[NUOVA FUNZIONE]** per proporre nuove funzionalità;
+- **[CHANNEL ISSUE]** per problemi relativi ai canali;
+- **[APP ISSUE]** per problemi relativi all'app.
 
 ## Credits
-Ringrazio [Tundrak](https://github.com/Tundrak) per aver creato un'ottima collezione di [**canali TV italiani**](https://github.com/Tundrak/IPTV-Italia), da cui ho preso spunto per creare quest'app e da cui ho preso i flussi dei canali WBD.
-
-I want to thank [Tundrak](https://github.com/Tundrak) for creating an excellent collection of [**Italian TV channels**](https://github.com/Tundrak/IPTV-Italia), which inspired me to create this app and from which I took the streams for the WBD channels.
+Ringrazio [Tundrak](https://github.com/Tundrak) per aver creato un'ottima collezione di [**canali TV italiani**](https://github.com/Tundrak/IPTV-Italia), da cui ho preso spunto per creare quest'app.
