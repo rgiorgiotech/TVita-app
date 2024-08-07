@@ -1,4 +1,4 @@
-![release](https://img.shields.io/github/v/release/rgiorgiotech/TVita-app) ![downloads](https://img.shields.io/github/downloads/rgiorgiotech/TVita-app/total) ![size](https://img.shields.io/github/repo-size/rgiorgiotech/TVita-app)
+![release](https://img.shields.io/github/v/release/rgiorgiotech/TVita-app) ![downloads](https://img.shields.io/github/downloads/rgiorgiotech/TVita-app/total)
 # TVita-app
 Guarda facilmente tutti i canali TV italiani con un'unica app.
 
