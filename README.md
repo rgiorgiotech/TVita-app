@@ -15,7 +15,7 @@ I flussi sono stati ricavati dalle piattaforme ufficiali delle emittenti, e non 
 | OS      | Min. requirements        |             |
 |---------|--------------------------|-------------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" width="20"/> macOS   | macOS 11.0 Big Sur  | [Download](https://github.com/rgiorgiotech/TVita-app/releases/latest/download/TVita-macOS-universal-latest.dmg)    |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="20"/> Windows | Windows 10 22H2     | [Download](https://github.com/rgiorgiotech/TVita-app/releases/latest/download/TVita-Win-latest.msixbundle)    |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="20"/> Windows | Windows 10 22H2     | Work in progress    |
 
 ## iOS & Android
 Un'app per iOS è già pronta e conto di pubblicarla nel prossimo futuro.
