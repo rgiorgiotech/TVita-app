@@ -4,6 +4,9 @@ Guarda facilmente tutti i canali TV italiani con un'unica app.
 
 Easily watch free Italian TV channels with a single app.
 
+![App screenshot](https://github.com/rgiorgiotech/TVita-app/blob/main/tvdemo.png)
+![App screenshot](https://github.com/rgiorgiotech/TVita-app/blob/main/radiodemo.png)
+
 ## Come funziona / How it works
 L'app presenta due schede, TV e Radio. La scheda TV contiene tutti i canali DTT nazionali più famosi, nei limiti dello streaming da parte delle emittenti. La sezione Radio contiene tutte le stazioni radio nazionali e regionali più diffuse, ed è in costante crescita.
 I flussi sono stati ricavati dalle piattaforme ufficiali delle emittenti, e non viene fatta alcuna ritrasmissione in server terzi. Ecco perché alcuni canali minori non sono presenti: se l'emittente non ha uno streaming ufficiale, il canale non sarà mai disponibile in quest'app.
